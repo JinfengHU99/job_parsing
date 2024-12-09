@@ -1,0 +1,148 @@
+job-title,job-description-html,job-location,job-salary,job-url,job-type
+Tech Lead JAVA (H/F),"<p>Les missions attendues par le Tech Lead JAVA (H/F) sont :</p><p>– Encadrer l’équipe sur les bonnes pratiques de développements,<br>– Concevoir l’architecture technique de l’application,<br>– Développer les solutions sur la partie back (SCALA et Java),<br>– Accompagner les montées en compétences,<br>– Etre pro-actif sur le traitement de la dette technique,<br>– Challenger le métier sur les besoins et la mise en place des solutions,<br>– Garantir la qualité techniques des applications.</p><p>En lien avec la communauté technique, vous n’avez pas peur d’aller contacter vos pairs pour appliquer les bonnes pratiques et outils (respect des drivers digitaux de l’entreprise en terme de cyber-securité, de performance, de cloud, d’architecture).</p><p>Les technologies suivantes feront partie de votre quotidien :</p><p>– Scala <br>– Java, Spring Boot / WebFlux, SpringBatch, Hibernate / JPA, Reactor<br>– React<br>– Git/Github<br>– Kafka<br>– Docker, Openshift, K8S + Helm<br>– MongoDB<br>– OAuth<br>– Linux<br>– Google Cloud Platform (GKE)<br>– DataStudio</p><p>Compétences techniques et fonctionnelles attendues :</p><p>– Agile – Confirmé – Indispensable<br>– Mongo DB – Confirmé – Indispensable<br>– Kafka – Confirmé – Indispensable<br>– Scala – Confirmé – Indispensable<br>– java 17 – Confirmé – Indispensable</p><p>Cette mission vous intéresse?</p>",Lille et périphérie,Selon profil,https://insitoo.com/mission-freelance/tech-lead-java-h-f-23/,freelance
+Lead dév (H/F),"<p>Vous interviendrez au sein d’une équipe composée de 2 développeurs, 1 tech lead et 1 product manager, dans un cadre bienveillant et centré sur l’humain (collaborateurs comme utilisateurs). Votre rôle sera clé dans l’accompagnement des équipes de développeurs, du Product Owner et du tech lead pour garantir la qualité de nos applicatifs et un bon niveau de delivery. Vous devez avoir une très bonne expérience en Java et de bonnes capacités à accompagner sur du cadrage IT. Vous serez aussi très souvent en contact avec les autres Tech lead et lead dev. Des compétences en nodejs et en vue.js sont un plus pour accompagner le collectif sur les composants communs aux domaines.</p><p>Vos tâches principales seront :<br>– Développement back-end Java et éventuellement front-end Vuejs<br>– Définition et mise en oeuvre des APIs en collaboration avec les dev front<br>– Cadrage technique en soutien du Tech lead<br>– Maintenance de la CICD et des outils de déploiement<br>– Mise en place du monitoring applicatifs et des alertes correspondant sur Datadog<br>– Rédaction et mise à jour de la documentation technique<br>– Tests unitaires et fonctionnels automatisés<br>– Respect de l’état de l’art en matière de cyber-sécurité, performance et qualité du code</p><p>Compétences techniques et fonctionnelles attendues :</p><p>– Java – Expert – Indispensable<br>– Vue.js – Confirmé – Indispensable<br>– Anglais – Expert – Indispensable<br>– JavaScript – Expert – Indispensable</p><p>Cette mission vous intéresse?</p>",Lille,Selon profil,https://insitoo.com/mission-freelance/lead-dev-h-f-15/,freelance
+Développeur fullstack Java Angular Cloud AWS (H/F),"<p></p><p>Fonctionnement : 2-3 jours par semaine sur plusieurs sites à Lyon + Télétravail</p><p>Les missions attendues par le Développeur fullstack Java Angular Cloud AWS (H/F) :</p><p></p><p>Projet : Un MVP a été mis à disposition des métiers en octobre 2023. Ce MVP doit évoluer en 2024:</p><p>-migration technique vers le Cloud AWS. Cette migration n’est au périmètre de la présente consultation.</p><p>-intégration de nouvelles évolutions fonctionnelles métier en vue d’une Mise En Production au T4 2024.</p><p>-mise en oeuvre du Maintien en Conditions Opérationnelles du MVP puis de l’application.</p><p>Le MVP a été développé sur un socle technique INDIGO. Ce socle s’appuie sur les technologies ANGULAR (Framework Javascript), NgRx,Java 17 Spring boot, POSTGRE.</p><p>Les autres technologies mise en oeuvre sont : Jenkins, GitLab CI.</p><p>L’équipe cible est composée de deux développeurs expérimentés sur les technologies, fonctionnant en agilité (1 chef de projet, 1 Proxy-PO, 1 ingénieur applicatif) et le métier (2 à 3 correspondants).</p><p>Enjeux : réussir la migration technique vers le Cloud AWS, réussir une MEP très attendue à fin 2024.</p><p>Outillage :</p><p>Outillage gestion de projet : JIRA, CONFLUENCE, TEAMS, SHAREPOINT.</p><p>Outillage DevSecOps : Jenkins, GitLab.</p><p>Prestation attendue :</p><p>BUILD : en lien avec le Proxy-Product Owner et l’ingénieur applicatif, gérer les backlog fonctionnel et technique de l’application. Rédiger les spécifications, développer selon spécifications.</p><p>Participer à l’industrialisation des processus de livraison, déploiement et d’intégration continue.</p><p>Mettre en oeuvre et optimiser les processus de surveillance/supervision proactive.</p><p>Contribuer au maillage avec les équipes supports (System Team).</p><p>RUN : traiter les incidents utilisateurs en tant que SN3 et réaliser les retours vers l’équipe SN1-SN2, en veillant aux engagements de service.</p><p>Gérer les environnements en lien avec l’exploitant (processus MEP, montées de version de composants, traitements de faille cybersécurité…)</p><p>Livrables :</p><p>BUILD : une première version applicative est attendue au plus tard fin 2024. Le rythme des développements permettra de fixer une fréquence envisageable pour des livraisons en 2025.</p><p>Compétences requises :</p><p>ANGULAR Javascript, Poste Gre, Java 17 Spring boot.</p><p>DevSecOps et CI/CD : Gitflow, Jenkins</p><p>Appréciées :</p><ul class=""content"">
+<li>
+<p>Cloud AWS</p>
+</li>
+<li>
+<p>Agilité SCRUM, SCRUM MASTER, Product Owner</p>
+</li>
+<li>
+<p>Goût pour le travail en équipe, forte autonomie, sens de la communication, rigueur, force de propositions.</p>
+</li>
+</ul><p>Expériences professionnelles :</p><ul class=""content"">
+<li>
+<p>Plusieurs années (&gt;5) de collaboration avec plusieurs équipes (DEV, métier, exploitant) en agilité.</p>
+</li>
+</ul><p>Compétences techniques et fonctionnelles attendues :</p><p>– Angular – Confirmé – Indispensable<br>– DevSecOps – Confirmé – Indispensable<br>– PostgreSQL – Confirmé – Souhaitable<br>– Intégration continue et livraison continue (CI/CD) – Confirmé – Indispensable<br>– Spring Boot – Confirmé – Indispensable<br>– Java – Confirmé – Indispensable</p><p>Cette mission vous intéresse?</p>",Lyon,Selon profil,https://insitoo.com/mission-freelance/developpeur-fullstack-java-angular-cloud-aws-h-f-2/,freelance
+Architecte Cloud AWS (H/F) – LYON,"<p>Fonctionnement sur site à Lyon + 2 jours de télétravail </p><p>Les missions attendues par le Architecte Cloud AWS (H/F) – LYON sont :</p><p></p><p>Dans le cadre de l’étude des scénarios d’orientation d’une plateforme, nous recherchons un architecte AWS pouvant proposer les choix architectures nécessaire afin de pérenniser la plateforme IoT actuelle.<br>Il est attendu que le candidat recherché :</p><ul class=""content"">
+<li>
+<p><strong>une certification de type AWS Partner Solutions Architects,</strong></p>
+</li>
+<li>
+<p><strong>une ou plusieurs expériences notables en tant qu’architecte sur des projets de restructuration sur le Cloud AWS.</strong></p>
+</li>
+<li>
+<p><strong>Une expérience sur le domaine des IoT serait un atout.</strong></p>
+</li>
+</ul><p>7 à 8 années d’expérience attendues sur le rôle.</p><p><u>Activité principale</u></p><p>• Définit l’architecture technique du SI cible selon les besoins de pérennisation du produit actuel selon les différents scénarios à l’étude :<br>– Scénario de maintien de l’architecture AWS existante à améliorer pour les besoins du projet en bénéficiant des opportunités possibles via les services managés AWS<br>– Scénario de construction d’une architecture AWS pour héberger une solution du marché IoT</p><p>• Vérifie et analyse les impacts techniques des nouvelles solutions et leur cohérence l’équipe de Infrastructure (DevOps) en place</p><p>• Réalise les POC et études nécessaires pour valider les choix d’architectures : en cohérence avec les besoins du projet, la faisabilité technique et les coûts)</p><p>• Rédige et met à jour l’ensemble des livrables d’architectures nécessaires pour spécifier les choix architecturaux/techniques à implémenter ou déjà implémentés</p><p>• Insuffle les concepts architecturaux à l’ensemble de l’équipe Infrastructure en charge du BUILD et du RUN de l’application actuelle et à venir</p><p>• Organise et anime (en lien avec le Lead tech du projet) les ateliers de travail avec l’ensemble de l’équipe concernant les choix architecturaux à venir</p><p>• Valide les stratégies et choix d’architectures avec les entités et interlocuteurs nécessaires (Lead tech, CTO, architectes/urbaniste d’entreprise et les référents cyber-sécurité) à travers les différentes instances nécessaires</p><p>• S’assure de l’évolution du socle aux vues des choix architecturaux réalisés et du respect des bonnes pratiques en apportant un support aux équipes</p><p>• S’assure de la non-régression et de la performance : mise en place du socle, support et formation aux équipes en place</p><p>• Participe à l’animation et les formations d’équipes</p><p><u>Stack technique du projet</u></p><p>AWS, Terraform, Ansible, Kubernetes, Helm, Traefik, Jenkins, Vault, Bitbucket, Nexus, Sonar, Datadog, Kafka, Zookeeper, SpringBoot, jOOQ, Maven, PostgreSQL, ElasticSearch, Kibana, Grafana, Gatling, Zipkin, Angular, Cypress, Xamarin</p><p><u>Compétences attendues</u></p><p>– Analyser une veille technique permanente notamment selon son expertise sur le Cloud AWS<br>– Identifier les services managés AWS applicables selon le contexte et les objectifs du projet<br>– Identifier les usages et conditions d’utilisation sur la durée de vie de la solution<br>– Adapter et optimiser les choix architecturaux/techniques selon les évolutions d’objectifs et de contexte<br>– Participer aux instances de validation pour la conformité des solutions adoptés<br>– Anticiper les points de difficultés avec les acteurs projet et réguler les relations selon le contexte<br>– Définir plusieurs options stratégiques, projeter leurs conséquences selon le contexte<br>– Coordonner une vision de l’architecture à moyen terme et être référent expert sur le sujet</p><p>Compétences techniques et fonctionnelles attendues :</p><p>– Amazon Web Services – Expert – Indispensable</p><p>Cette mission vous intéresse?</p>",Lyon,Selon profil,https://insitoo.com/mission-freelance/architecte-cloud-aws-h-f-lyon/,freelance
+Consultant cybersecurité opérationnelle (H/F),"<p></p><p>-Assurer le bon fonctionnement des environnements en maintenant les KPIs de sécurité.</p><p>-Assurer le rôle de référent dans la formalisation puis la réalisation d’un plan de remédiation.</p><p>-Assurer que les composants sont bien en adéquation avec les standard du marché (gestion de l’obsolescence, patch</p><p>management, gestion des vulnérabilités…).</p><p>-Contribuer à la planification et au suivi du déploiement des patchs urgents si nécessaire,  en fonction des alertes et des failles parues.</p><p>Compétences techniques et fonctionnelles attendues :</p><p>– gestion des vulnérabilités – Confirmé – Indispensable<br>– Anglais professionnel  – Confirmé – Indispensable<br>– Sécurité Opérationnelle – Confirmé – Indispensable<br>– GCP  – Confirmé – Indispensable</p><p>Cette mission vous intéresse?</p>",Lille,Selon profil,https://insitoo.com/mission-freelance/consultant-cybersecurite-operationnelle-h-f-8/,freelance
+Lead dév java/vue (H/F),"<p>Vous interviendrez au sein d’une équipe composée de 4 développeurs, 1 tech lead et 1 product manager.<br>Nous sommes orientés Microservice, avec de nombreux composants.</p><p>Votre rôle sera clé dans le développement des composantes backend et, dans certains cas, frontend.<br>Mise à disposition d’une logique événementielle pour faciliter l’intégration entre les systèmes.<br>Mise à disposition de dataset performant.<br>Création d’interfaces utilisateurs, principalement pour les opérateurs, pour fournir des gestes efficaces pour opérer au quotidien.<br>Rédaction et mise à jour de la documentation technique.<br>Respect de l’état de l’art en matière de cyber-sécurité, performance et qualité du code<br>Maintenance de la CICD et des outils de déploiement</p><p>Les missions attendues par le Lead dév java/vue (H/F) :</p><p>Stack :<br>Java / Spring Boot / Mongo DB / PostgresSQL / REST / WebHook</p><p>Vue.js / Typoscript / HTML5 / CSS3<br>GitHub / GCP / BigQuery<br>JIRA<br>Datadog avec SRE (SLI/SLO)<br>Docker, Kubernetes<br>Playwright<br>Kafka<br>Cadrage technique et définition d’architecture logicielle</p><p>Compétences techniques et fonctionnelles attendues :</p><p>– Kubernetes – Junior – Indispensable<br>– Anglais – Confirmé – Indispensable<br>– Produits Docker – Confirmé – Indispensable<br>– Java – Expert – Indispensable<br>– Apache Kafka – Confirmé – Indispensable<br>– Vue.js – Expert – Indispensable</p><p>Cette mission vous intéresse?</p>",Lille,Selon profil,https://insitoo.com/mission-freelance/lead-dev-java-vue-h-f/,freelance
+Coach DevOps (H/F),"<p><strong><u>3 jours par semaine obligatoire à Lyon</u></strong></p><p>Les missions attendues par le Coach DevOps (H/F) sont :</p><p></p><p>Nous recherchons<strong> </strong>idéalement un profil Tech Lead voire Architecte.</p><p>Capacité à accompagner / édicter une politique et la décliner en un cahier des charges pour une chaîne DevOps et des pratiques pour les développeurs.</p><p>Les compétences de communication et de savoir être sont donc essentielles</p><p> </p><p><strong><u>Compétences<br></u></strong></p><ul class=""content"">
+<li>
+<p>Architecture des pipelines CI/CD</p>
+</li>
+<li>
+<p>Modélisation et spécification de configuration des outils et de leurs embranchements</p>
+</li>
+<li>
+<p>Principe SAFe de « Continuous delivery »</p>
+</li>
+<li>
+<p>Orchestrateur CI/CD: GitLab / Jenkins</p>
+</li>
+<li>
+<p>Outillage DevOps pour l’automatisation des audits de qualité et de sécurité</p>
+</li>
+<li>
+<p>Outillage DevOps pour l’automatisation des tests d’intégration, fonctionnels et de performance</p>
+</li>
+<li>
+<p>Outillage DevOps pour le déploiement des livrables</p>
+</li>
+<li>
+<p>Gestion des environnements et observabilité</p>
+</li>
+<li>
+<p>OWASP</p>
+</li>
+</ul><p><strong><u>Activités et responsabilités<br></u></strong></p><ul class=""content"">
+<li>
+<p>Auditer des pipelines CI/CD en place et proposer des plan d’actions d’amélioration</p>
+</li>
+<li>
+<p>Garantir la cohésion globale des pipelines et des macros étapes qui le compose</p>
+</li>
+<li>
+<p>Collaborer avec la système team pour leur soumettre des demandes d’évolutions des pipelines</p>
+</li>
+<li>
+<p>Réaliser la spécification fonctionnelle et technique des pipelines</p>
+</li>
+<li>
+<p>Connecter les pipelines en cohérence avec les attentes de l’infogérance</p>
+</li>
+<li>
+<p>Monter en compétence sur les plateformes DevOps fournis par la DSIT et se tenir informé des nouveautés où évolutions</p>
+</li>
+<li>
+<p>Intégrer les normes de sécurité dans les pipelines en collaboration avec l’expert cyber</p>
+</li>
+<li>
+<p>Ajuster les pipelines aux concepts définis par les system architectes et l’autorité d’intégration</p>
+</li>
+<li>
+<p>Collaborer avec les coachs BiQ, les ATT et les Cop pour la mise en place des normes et standard de qualité</p>
+</li>
+</ul><p>Compétences techniques et fonctionnelles attendues :</p><p>– DevOps – Confirmé – Indispensable</p><p>Cette mission vous intéresse?</p>",Lyon et périphérie,Selon profil,https://insitoo.com/mission-freelance/coach-devops-h-f/,freelance
+Lead dév javascript (H/F),"<p>Vous interviendrez au sein d’une équipe composée de 4 développeurs, 1 tech lead et 1 product manager, dans un cadre bienveillant et centré sur l’humain (collaborateurs comme utilisateurs). Votre rôle sera clé dans le développement des interfaces front-end, en lien avec les équipes back-end. Vous justifiez de 5 ans d’expérience en Vue.js et TypeScript. Des compétences dans d’autres langages back-end (NodeJs, Java, PHP) sont un plus pour accompagner le collectif.</p><p>Les missions attendues par le Lead dév javascript (H/F) :</p><p>Vos tâches principales seront :</p><p>– Développement front-end Vuejs, HTML5 et CSS3</p><p>– Maintenance de la CI/CD et des outils de déploiement</p><p>– Rédaction et mise à jour de la documentation technique</p><p>– Tests unitaires sur Cucumber et fonctionnels automatisés sur Cypress et Playwright</p><p>– Respect de l’état de l’art en matière de cyber-sécurité, performance et qualité du code</p><p>Compétences attendues :</p><p>Vuejs : fortement lié à l’architecture micro-front-end de nos composants, une expertise en Vue.js et TypeScript est indispensables.</p><p>Test unitaire et test front-end : Vous maitrisez au moins un framework de test unitaire (Cucumber de préférence) et un framework de test front-end (Cypress ou Playwright).</p><p>Outils de monitoring : être familiarisé avec l’utilisation d’outils de monitoring de la qualité, tel que SonarQube (ou équivalent), Checkmarx.</p><p>Anglais : même si les principaux interlocuteurs sont francophones, cette mission se déroule dans un contexte international et les échanges et présentations en anglais sont fréquents et parfois non planifiés</p><p>Compétences techniques et fonctionnelles attendues :</p><p>– CSS – Expert – Indispensable<br>– Anglais – Expert – Indispensable<br>– JavaScript – Expert – Indispensable<br>– Vue.js – Expert – Indispensable<br>– HTML5 – Expert – Indispensable</p><p>Cette mission vous intéresse?</p>",Lille,Selon profil,https://insitoo.com/mission-freelance/lead-dev-javascript-h-f-2/,freelance
+Manager de transition Cybersécurité (H/F),"<pre><code>En tant qu'expert en sécurité avec des compétences en gestion, vous faites partie du conseil d'administration du RSSI. 
+- Vous développez et délivrez une vision, alignée sur la politique de cybersécurité
+- Vous êtes propriétaire des processus requis pour concrétiser cette vision (c'est-à-dire le processus de gestion des incidents de cybersécurité)
+- Vous gérez les propriétaires de produits, vous validez la feuille de route des produits et vous assurez la mise en œuvre d'une conduite du changement appropriée, en collaboration avec les unités commerciales 
+- Votre périmètre comprend les pentests, la surveillance des surfaces d'attaque, EDR, SOC, CERT, Threat Intelligence, DLP.
+- Vous gérez les experts en sécurité en charge de ces processus &amp; produits
+- Vous vous assurez que l'entreprise est prête à gérer les incidents de cybersécurité et à y répondre (processus, procédures, gestion de crise, red team).
+- Vous vous assurez que les processus et les outils sont déployés et efficaces (en collaboration avec les départements projets et opérations) et rapportez les KPI
+- Vous accompagnez les parties intéressées dans la compréhension de la politique de cybersécurité, des risques et des options de mitigation, notamment avec les équipes CTO et BU
+En tant que membre du CISO Board, vous, vous avez des responsabilités supplémentaires :
+- Vous gérez votre budget (~2M€) et rapportez la bonne utilisation de ce budget selon les règles de contrôle de gestion
+- Vous gérez la relation avec les partenaires clés, en particulier ceux qui fournissent des services à votre domaine (par exemple, SOC)
+- Vous participez activement à la communauté internationale en fournissant des conseils opérationnels</code></pre><p>Compétences techniques et fonctionnelles attendues :</p><p>– Gestion budgétaire – Confirmé – Indispensable<br>– Gestion des incidents de cybersécurité – Confirmé – Indispensable<br>– Management – Confirmé – Indispensable</p><p>– SOC – EDR – CTI – Confirmé – Indispensable</p><p>Cette mission vous intéresse?</p>",Lille,Selon profil,https://insitoo.com/mission-freelance/manager-de-transition-cybersecurite-h-f/,freelance
+Consultant Cybersécurité (H/F),"<p><strong><u>Présentiel 3 jours par semaine obligatoire sur LYON</u></strong></p><p>Les missions attendues par le Consultant Cybersécurité (H/F) sont :</p><p></p><p>Votre mission au sein de l’équipe cyber sécurité sera de soutenir l’équipe dans les domaines suivants : </p><p> </p><p><strong><u>Sécurité des applications :</u></strong>  </p><p> </p><ul class=""content"">
+<li>
+<p>Dresser l’inventaire des applications développées et utilisées dans nos différents marchés étranger pour réaliser une évaluation de leur niveau de sécurité. </p>
+</li>
+</ul><p> </p><p><strong><u>Sensibilisation Cybersécurité :</u></strong> </p><p> </p><ul class=""content"">
+<li>
+<p>D’accompagner le déploiement du programme de sensibilisation aux risques cyber chez nos partenaires commerciaux </p>
+</li>
+</ul><p> </p><p><strong><u>Conformité Cybersécurité :</u></strong> </p><p> </p><ul class=""content"">
+<li>
+<p>Vérifier la bonne application des directives cybersécurité chez les dealers privés </p>
+</li>
+<li>
+<p>Participer aux audits et au suivi des actions correctives suite à un audit cyber (interne ou externe) </p>
+</li>
+<li>
+<p>Participer à la mise en œuvre des directives cyber groupe</p>
+</li>
+<li>
+<p>Participer à la mise en place de nouvelles normes de cyber sécurité à venir tel que NIS2  </p>
+</li>
+</ul><p> </p><p><strong><u>Compétences clés :</u></strong> </p><p> </p><ul class=""content"">
+<li>
+<p>Sens de la communication sur des projets de change management. </p>
+</li>
+<li>
+<p>Capacités de synthèse et de présentations pour des publics IT et non IT  </p>
+</li>
+<li>
+<p>Bonnes connaissances générales en cyber sécurité (pas d’expertise technique particulière requise) </p>
+</li>
+<li>
+<p>Bonne compréhension des problématiques et enjeux adressés </p>
+</li>
+<li>
+<p>Savoir identifier et mesurer les risques liés à la Cyber, dans le but de réduire la surface d’attaque</p>
+</li>
+<li>
+<p>Travailler en équipe </p>
+</li>
+<li>
+<p>Anglais </p>
+</li>
+</ul><p>Compétences techniques et fonctionnelles attendues :</p><p>– Anglais – Confirmé – Indispensable<br>– Cybersécurité – Confirmé – Indispensable</p><p>Cette mission vous intéresse?</p>",Lyon et périphérie,Selon profil,https://insitoo.com/mission-freelance/consultant-cybersecurite-h-f-9/,freelance
+Consultant Cyber Sécurité opérationnelle H/F,"<h1><strong>Piloter la cybersécurité des produits digitaux </strong></h1><p>Contexte : La direction Cybersécurité est en charge de l’accompagnement des équipes digitales dans le maintien en condition de sécurité de ses produits digitaux existant et dans la création « Secure by design » des produits digitaux à venir.</p><p>Dans ce cadre, nous recherchons un responsable cybersécurité des produits digitaux qui aura comme responsabilités propres :</p><p>– Définir la stratégie de sécurisation des produits digitaux Lde l’enseigne<br>– Ordonnancer les roadmaps cybersécurité produit<br>– Coordonner les actions identifiées sur les produits avec les Cyber Experts, Responsables de plan de traitement &amp; Directions<br>– Alerter et résoudre les risques de non atteinte des objectifs de maturité sécurité des produits<br>– Animer les directions IT sur leur roadmap cybersécurité<br>– Renseigner le dashboard global cybersécurité</p><p>Les missions attendues par le Consultant Cyber Sécurité opérationnelle H/F sont :</p><p></p><p>Il aura du succès si il/elle :</p><p>– Mesure et fait progresser le niveau de sécurité des produits, selon les priorités établies (produits critiques &gt; produits sensibles &gt; produits non sensibles mais exposés sur Internet &gt;produits non sensibles)<br>– Prend de la hauteur et fixe le bon niveau de priorité aux cyber experts &amp; Directions<br>– Obtient le sponsorship des Directions et assure une proximité avec elles, pour obtenir leur engagement sur la réalisation des actions<br>– Travaille de concert et rend compte aux RSSI, Responsables Pilote des plans de traitements &amp; cyberdéfense et Directeurs des progrès et difficultés sur l’animation sécurité des produits</p><p>Il/Elle échouera si :</p><p>– Les cyber experts et Directions n’identifient pas/ne comprennent pas les priorités à adresser<br>– “Sur-priorise” (priorités fixées trop nombreuses et donc non tenables par les cyber experts et directions)<br>– Manque de communication avec les Directions, RSSI et Responsables de plan de traitement<br>– A une version court-termiste, ne se projette pas sur les sujets/priorités de demain</p><p>Localisation : Lille et périphérie (59)</p><p>Durée : 1 an  </p><p>Compétences techniques et fonctionnelles attendues :</p><p>– ISP – Confirmé – Indispensable<br>– Cybersécurité opérationnelle  – Confirmé – Indispensable<br>– SMSI – Confirmé – Indispensable</p><p>Cette mission vous intéresse?</p>",Lille et périphérie,Selon profil,https://insitoo.com/mission-freelance/consultant-cyber-securite-operationnelle-h-f/,freelance
+Architecte Cybersécurité (H/F),"<p><strong><u>Fonctionnement : sur site à Lyon + Télétravail 50%</u></strong></p><p>Les missions attendues par le Architecte Cybersécurité (H/F) sont :</p><p></p><h2>Description du profil :</h2><p>Expert cyber sécurité en renfort temporaire pour l’équipe Sécurité pour une task force technique sur S2 2023.</p><p> </p><h2>Activité principale :</h2><p><strong> </strong></p><p>o  Réalisation de tests et recettes de sécurité sur des environnements hétérogènes</p><p>o  Force de proposition sur des points techniques liés à la cyber sécurité</p><p>o  Force de proposition pour l’évolution des outils de tests et de suivi</p><p>o  Intervention auprès des usines de développements pour recadrer des besoins de sécurité en cas de nécessité</p><p> </p><h2>Activité secondaire :</h2><p><strong> </strong></p><p>o  Remonté d’alerte en cas d’identification de vulnérabilités importantes</p><p> </p><h2>Stack technique du projet :</h2><p><strong> </strong></p><p>Red Hat Openstack, Red Hat Virtualization, Docker, Podman, Cisco ACI, UCS, Jenkins, Ansible, Bitbucket, OpenLDAP, WebSSO (SAML, OpenID, OAuth), Hashicorp Vault, RHEL, Cloud Public / Privé / Hybride (IaaS, PaaS, SaaS), Tomcat, Spring Boot, Apache HTTPD / HAProxy, Architectures distribuées (WS, JMS, Kafka, …), SGBD (Oracle / Postgres), IGC (PKI) / HSM, SecDevOps, Euridis, DLMS/COSEM, CPL G1 et G3, IKE, IPSEC, TLS, PKCS#11, OpenSSL, Java, Javascript, MySQL, C#, SpringBoot, Oracle Weblogic, Oracle Database, Nginx, JBoss, Syslog, Scripting shell, Annuaires LDAP, Windows Server, Git, Sonar Cube, JIRA, SCADA, IEC 62351, IEC 62443, IEC 61850, EBIOS 2010 / RM</p><p> </p><h2>Compétences attendues sur le profil :</h2><p><strong> </strong></p><p>·  Très bonne connaissance des principes de sécurisation des applications (web ou client lourd), de leur middleware et des référentiels afférents (ex : OWASP, guides de l’ANSSI, …).</p><p>·  Très bonne connaissance des systèmes et réseaux et des méthodes visant à les sécuriser (chiffrement symétrique et asymétrique, authentification, intégrité, TLS, IGC, VPN).</p><p>·  Bonne connaissance de l’état de l’art en termes de gestion des secrets d’un système d’information complexe (audits, habilitations, mots de passe partagés, astreintes, DevOps, intégration continue, …).</p><p>·  Connaissance des processus et des outils de développement (ex : JAVA, C#, Python, etc.)</p><p>·  Grande capacité à appréhender rapidement des sujets nouveaux</p><p>·  Expérience dans la gestion et la réalisation de tests de sécurité</p><p>·  Bonnes qualités rédactionnelles</p><p>Compétences techniques et fonctionnelles attendues :</p><p>Cette mission vous intéresse?</p>",Lyon,650 €/j,https://insitoo.com/mission-freelance/architecte-cybersecurite-h-f/,freelance
